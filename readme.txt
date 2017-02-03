@@ -1,1 +1,1 @@
-this is the readme file for my repo. This repo is for training purposes for git
+this is the readme file for my repo. This repo is for training purposes for learning git. I'm really excited.
